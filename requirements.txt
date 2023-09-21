@@ -1,0 +1,2 @@
+#python 3.11
+seaborn==0.12.2
